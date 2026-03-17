@@ -1,3 +1,4 @@
+![Nebula Command](./screenshots/Dashboard.png)
 # Nebula Command
 
 AI Operations Command Center Interface
@@ -34,12 +35,6 @@ This creates a command-console style interface similar to:
 - Command terminal interface  
 - Live event ticker for system activity  
 - System health and operational indicators  
-
----
-
-## Dashboard Overview
-
-![Dashboard Overview](./screenshots/Dashboard.png)
 
 ---
 
