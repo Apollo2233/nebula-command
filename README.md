@@ -30,7 +30,7 @@ traditional dashboards.
 
 ## Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## Future Ideas
 
